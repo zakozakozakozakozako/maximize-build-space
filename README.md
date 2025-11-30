@@ -155,7 +155,8 @@
  - 4.customize.sh:修复一个Android版本号获取问题
  - 5.action.sh:新增音量键选择
  <details>
-<summary><strong>点击查看更多更新日志</strong></summary>
+ <summary><strong>点击查看更多更新日志</strong></summary>
+ 
  15.7.7.03-16-beta5(1577031605)
  - 1.更新Roboto到beta36
  - 2.更新遍黑体到3.6并删除冲突部分U+E020..U+E023
@@ -524,4 +525,4 @@ U+16D40-U+16D79(U+16D7F)
 ```
 󰀀
 ```
-</details>
+ </details>
